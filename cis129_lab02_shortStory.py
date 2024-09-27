@@ -1,3 +1,6 @@
+#Author: Marques Strawn
+#My first Python lab in my CIS129 course
+#prints a simple short story
 print(There was a Deaf man who wandered around the world searching for acceptance of being deaf because he was not born deaf, he went through hearing loss after getting a severe disease.)
 print(He did not know how to deal with his hearing loss because he did not grow up in a Deaf environment, did not know American Sign Language or any sign language, and felt that he lost his place in the world.)
 print(During his adventure, he met this deaf and blind man who turned out to be a monk but when he approached him, this monk understood his situation completely without even speaking to him.)
